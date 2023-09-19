@@ -1,0 +1,39 @@
+12345
+Stowe
+Madison
+madisonstowe@email.com
+2024561111
+1600 Pennsylvania Ave
+Washington
+DC
+20500
+Computer Science
+NA
+4.0
+
+6789
+someone
+somehow
+someemail@someprovider.com
+ima numba
+1300 some road
+some city
+HI
+969696
+somemajor
+high
+9.0
+
+9876
+Lybrand
+John
+johnsemail@cox.net
+(949)462-9696
+35 some street
+ladera
+ca
+92694
+se
+high
+5
+
